@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 this is my file inside the main branch.
+=======
+this is my file inside the main branch. Now the error is fixed and this must be shown in main 
+branch
+>>>>>>> error-fix
